@@ -1,0 +1,28 @@
+{
+  "name": "boggle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx vite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fab514/boggle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fab514/boggle/issues"
+  },
+  "homepage": "https://github.com/fab514/boggle#readme",
+  "devDependencies": {
+    "react-dom": "^18.3.1",
+    "vite": "^6.0.2"
+  },
+  "dependencies": {
+    "react": "^18.3.1"
+  }
+}
